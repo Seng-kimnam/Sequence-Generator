@@ -31,6 +31,7 @@ The following guides illustrate how to use some features concretely:
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
 * [Producing a SOAP web service](https://spring.io/guides/gs/producing-web-service/)
+* [Click this link to test this project locally with port 8080 and Swagger OpenAPI](http://localhost:8080/swagger-ui/index.html#/)
 
 ### Additional Links
 
